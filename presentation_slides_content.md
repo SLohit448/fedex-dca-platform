@@ -4,7 +4,7 @@
 ### Slide 1 – Title & GitHub Repository
 * **Title:** FedEx IDCAP – Intelligent DCA Management Platform
 * **Subtitle:** Reimagining DCA Management through Digital & AI Solutions
-* **GitHub Repo Link:** `[Insert your Repo Link]`
+* **GitHub Repo Link:** [https://github.com/SLohit448/fedex-dca-platform](https://github.com/SLohit448/fedex-dca-platform)
 * **Visual:** Simple background with FedEx colors or modern AI/digital illustration
 
 ### Slide 2 – Goal & Context
