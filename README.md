@@ -1,5 +1,7 @@
 # FedEx IDCAP – Intelligent DCA Management Platform
 
+**GitHub Repository:** [https://github.com/SLohit448/fedex-dca-platform](https://github.com/SLohit448/fedex-dca-platform)
+
 **Project Title:** Reimagining Debt Collection Agency (DCA) Management through Digital & AI Solutions
 
 ## Overview
